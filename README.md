@@ -17,8 +17,8 @@ I recommend you to check this [ youtube chanell ](https://www.youtube.com/c/Code
 
 ## Best QA Course ( codemify.com )
 
-Don't hesitate, don't hesitate, don't hesitate
-We're here right now so choose your fate 
+Don't hesitate, don't hesitate, don't hesitate\
+We're here right now so choose your fate\
 [ If you want to book a Software Quality Assurance Course - sign up for a free consultation here ](https://codemify.com/)
 
 
