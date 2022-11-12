@@ -6,15 +6,6 @@
 
 I am a passionate and ambitious QA Automation Engineer ( SDET )  who believes that web applications make a positive impact in people’s life 😄!
 
-#### *Looking for some cool videos about QA?*
-I recommend you to check this [ youtube chanell ](https://www.youtube.com/c/Codemify/featured)
-
-
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=papapin&show_icons=true&theme=dracula)
-
 ## Best QA Course ( codemify.com )
 
 Don't hesitate, don't hesitate, don't hesitate\
