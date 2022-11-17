@@ -5,4 +5,4 @@
 
 I am a passionate and ambitious QA Automation Engineer ( SDET ) who believes that web applications make a positive impact in people’s life 😄!
 
-<img src="/papapin/papapin.gif?raw=true" width="100%">
+<img src="https://github.com/papapin/papapin/blob/main/papapin.gif?raw=true" width="100%">
