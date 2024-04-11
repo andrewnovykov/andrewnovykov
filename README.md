@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Andrew
 
-[![](https://img.shields.io/badge/-@papapin-%23181717?style=flat-square&logo=github)](https://github.com/andrewnovykov)
+[![](https://img.shields.io/badge/-@andrewnovykov-%23181717?style=flat-square&logo=github)](https://github.com/andrewnovykov)
 [![](https://img.shields.io/badge/-Andrew%20Novykov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewnovykov/)](https://www.linkedin.com/in/andrewnovykov/)
 
 
