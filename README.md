@@ -4,9 +4,7 @@
 [![](https://img.shields.io/badge/-Andrew%20Novykov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewnovykov/)](https://www.linkedin.com/in/andrewnovykov/)
 
 
-<a href="https://www.youtube.com/@emdorphin-ai" target="_blank">
-  <img alt="YouTube Channel" height="28" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png"/>
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-emdorphin--ai-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@emdorphin-ai)
 
 I am a passionate and ambitious QA Automation Engineer (SENIOR SDET ) who believes that web applications make a positive impact in people’s life 😄!
 
